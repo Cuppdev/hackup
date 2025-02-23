@@ -1,4 +1,4 @@
-# HackUp.sh - Simulador de Hacker Mode 
+# Hackup.sh - Simulador de Hacker Mode 
 
 HackUp.sh es un script divertido que crea una sesión en `tmux` con múltiples paneles,
 simulando comandos de hacking como si estuvieras en una película.
