@@ -33,3 +33,8 @@ O ejecuta módulos individuales:
 ./hackup.sh matrix
 ./hackup.sh superstuff
 ```
+## 🖼️ Vista previa
+
+Así se ve el script en acción:
+
+![HackUp Preview](script.png)
